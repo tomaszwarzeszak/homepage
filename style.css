@@ -1,0 +1,36 @@
+body {
+    background-color: #4d4d4d;
+}
+
+.subpageHeader {
+    color: rgb(98, 196, 19);
+}
+
+.header{
+    color: rgb(78, 126, 15);
+}
+
+.subpageContent {
+    color: #FFFFFF;
+} 
+
+
+.diaryHeader{
+    color: #ffd000;
+}
+
+
+.diaryContent{
+    color: #fffb00;
+}
+
+.navigation
+{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.footer{
+    color: #FFFFFF;
+}
